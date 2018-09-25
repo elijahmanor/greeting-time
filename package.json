@@ -1,0 +1,20 @@
+{
+  "name": "greeting-time",
+  "version": "0.1.0",
+  "description": "Get a greeting by the time of day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elijahmanor/greeting-time.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elijahmanor/greeting-time/issues"
+  },
+  "homepage": "https://github.com/elijahmanor/greeting-time#readme"
+}
