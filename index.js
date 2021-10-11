@@ -12,4 +12,3 @@ module.exports = function(date, includeGoodNight=false) {
     return "Good night";
   }
 };
-
